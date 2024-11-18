@@ -1,0 +1,11 @@
+{
+  "name": "newa-dc-bot",
+  "version": "1.0.0",
+  "description": "NewA Discord Bot",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eous",
+  "license": "ISC"
+}
